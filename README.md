@@ -25,5 +25,5 @@ Founder of the platform [Hamidullo Rahmonberdiyev](https://rahmnberdiyev.uz).
 
 To used 
 
-PHP v8.1, Laravel v10.8, Template: AdminLTE v3.2.0 , Bootstrap v3.4.0
+- ``` PHP v8.1 ```    - ```Laravel v10.8 ```   - ``` Template: AdminLTE v3.2.0 ```   - ```Bootstrap v3.4.0 ```
 
