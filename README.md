@@ -11,6 +11,12 @@ This project created for counting customers. This project order by water supplie
 - [php artisan serve](https://laravel.com/docs/)
 - [php artisan cache:clear](https://laravel.com/docs/)
 
+## .env
+
+``` 
+DB_HOST=mysql 
+```
+
 
 ## Founder
 
