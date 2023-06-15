@@ -4,7 +4,7 @@
 
 This project created for counting customers. This project order by water supplier. The project was finished date 15.06.2023
 
-## Worked
+## To use
 
 - [php artisan migrate ](https://laravel.com/docs/).
 - [php artisan serve](https://laravel.com/docs/).
