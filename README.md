@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.lateshipment.com/wp-content/uploads/topimage-1.png" width="300" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://github.com/HamidulloRahmonberdiyev/RealProject-customers" target="_blank"><img src="https://www.lateshipment.com/wp-content/uploads/topimage-1.png" width="300" alt="Laravel Logo"></a></p>
 
 ## About Project
 
