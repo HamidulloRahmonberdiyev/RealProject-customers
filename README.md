@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.lateshipment.com/wp-content/uploads/topimage-1.png" width="300" alt="Laravel Logo"></a></p>
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://3.bp.blogspot.com/-cM4N1Sqjr30/WFZL1ExN5lI/AAAAAAAAAM4/2YN5mC60NOECSMCUSuRyznFgt-UviluOACLcB/s1600/PHP.jpg" width="30" alt="Build Status"></a>
+<a href="https://github.com/laravel/framework/actions"><img src="https://3.bp.blogspot.com/-cM4N1Sqjr30/WFZL1ExN5lI/AAAAAAAAAM4/2YN5mC60NOECSMCUSuRyznFgt-UviluOACLcB/s1600/PHP.jpg" width="50" border="3px" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
